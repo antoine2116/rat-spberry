@@ -1,0 +1,6 @@
+# Project exclude paths
+/cmake-build-debug-raspberry-de-ilias/
+/cmake-build-debug-remote
+
+# CLion Ignored Files
+/cmake-build-debug-remote
